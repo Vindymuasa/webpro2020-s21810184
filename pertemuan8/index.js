@@ -18,8 +18,3 @@ account.addExpenses('Bayar Tagihan Listrik', 250000);
 account.addExpenses('Beli Twister', 18000);
 account.addExpenses('Beli Wafer Selamat', 23000)
 console.log("Total pengeluaran " + account.name +" adalah Rp." + account.getAccountSummary());
-
-
-
-
-
